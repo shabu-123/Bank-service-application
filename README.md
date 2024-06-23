@@ -1,2 +1,3 @@
 # Bank-service-application
-ABC Bank's web application integrates machine learning models for credit score prediction, fraud detection, insurance claims, and a customer service chatbot using Streamlit for interactive user experience.
+This project is a web application for ABC Bank that integrates various machine learning models to provide a range of services to customers. The application is developed using the Streamlit framework and the Streamlit Option Menu library for a user-friendly interface. The application includes four main modules: Credit Score Prediction, Fraud Detection, Car Insurance Claim, and Customer Service Chatbot. Each module is implemented in a separate python file and is integrated into the main application using the MultiApp class. The application allows customers to interact with the various modules through a sidebar menu, providing a seamless and intuitive user experience.
+
